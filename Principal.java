@@ -9,9 +9,9 @@ public class Principal{
         System.out.println("");
         //Informações de um operário.
         System.out.println("Informações de um Operário");
-        op.setNome("Alexander");
+        op.setNome("Fábio");
         op.setTelefone("999999999");
-        op.setEndereco("Rua Ótima");
+        op.setEndereco("Rua Lima");
         op.setCodigoSetor(123);
         op.setSalarioBase(1200);
         op.setImposto(49.5);
@@ -22,9 +22,9 @@ public class Principal{
         System.out.println("");
         //Informações de um Administrador.
         System.out.println("Informações de um Admnistrador:");
-        adm.setNome("André");
+        adm.setNome("Marcio");
         adm.setTelefone("21929929");
-        adm.setEndereco("R. Otaviano");
+        adm.setEndereco("R. peixoto");
         adm.setCodigoSetor(1);
         adm.setSalarioBase(4000);
         adm.setImposto(370.5);
